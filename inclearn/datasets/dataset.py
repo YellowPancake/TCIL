@@ -173,7 +173,6 @@ class iImageNet100(DataHandler):
     ])
 
     def __init__(self, data_folder, train, is_fine_label=False):
-        data_folder = "/share/test/hbc/ImageNet100"
         if train is True:
             self.base_dataset = self.base_dataset_cls(osp.join(data_folder, "train"))
         else:

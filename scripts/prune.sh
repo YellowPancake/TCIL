@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-name='Prune_cifar_b0_10s'
+name='cifar_b0_10s'
 expid='cifar_b0_10s'
 
 

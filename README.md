@@ -70,6 +70,6 @@ Thanks for the great code base from [DER](https://github.com/Rhyssiyan/DER-Class
 
 ## Checkpoints
 
-Get the trained models from [BaiduNetdisk(passwd:d6jd)](#), [GoogleDrive](#). 
+Get the trained models from [BaiduNetdisk(passwd:q3eh)](https://pan.baidu.com/s/1G0XVZCaaZ2LmM_eppr3cXA), [GoogleDrive](https://drive.google.com/drive/folders/1y9AXRdsmIYGWWS6erG3_VxFSeroohHT6?usp=sharing). 
 (We both offer the training logs in the same file)
 
