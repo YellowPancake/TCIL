@@ -66,7 +66,7 @@ Thanks for the great code base from [DER](https://github.com/Rhyssiyan/DER-Class
 
 ## Non-Rehearsal Setting
 
-![CIFAR and ImageNet figure non-rehearsal results](images/non_mem.png)
+![CIFAR and ImageNet figure non-rehearsal results](pictures/non_mem.png)
 
 ## Checkpoints
 
