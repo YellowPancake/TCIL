@@ -4,7 +4,10 @@
 
 ## Resolving Task Confusion in Dynamic Expansion Architectures for Class Incremental Learning
 
+[![Paper](https://img.shields.io/badge/arXiv-2103.02603-brightgreen)](https://arxiv.org/abs/2103.02603)
 ![AAAI](https://img.shields.io/badge/AAAI-2023-%2312457A)
+[![bilibili](https://img.shields.io/badge/bilibili-link-%23ff69b4)](https://www.bilibili.com/video/BV1L14y1u7XV/)
+
 
 ![TCIL main figure](pictures/TCIL.png)
 
@@ -70,6 +73,6 @@ Thanks for the great code base from [DER](https://github.com/Rhyssiyan/DER-Class
 
 ## Checkpoints
 
-Get the trained models from [BaiduNetdisk(passwd:q3eh)](https://pan.baidu.com/s/1G0XVZCaaZ2LmM_eppr3cXA), [GoogleDrive](https://drive.google.com/drive/folders/1y9AXRdsmIYGWWS6erG3_VxFSeroohHT6?usp=sharing). 
+Get the trained models from [BaiduNetdisk(passwd:q3eh)](https://pan.baidu.com/s/1G0XVZCaaZ2LmM_eppr3cXA). 
 (We both offer the training logs in the same file)
 
