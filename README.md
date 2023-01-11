@@ -4,7 +4,7 @@
 
 ## Resolving Task Confusion in Dynamic Expansion Architectures for Class Incremental Learning
 
-[![Paper](https://img.shields.io/badge/arXiv-2103.02603-brightgreen)](https://arxiv.org/abs/2103.02603)
+[![Paper](https://img.shields.io/badge/arXiv-2212.14284-brightgreen)](https://arxiv.org/abs/2212.14284)
 ![AAAI](https://img.shields.io/badge/AAAI-2023-%2312457A)
 [![bilibili](https://img.shields.io/badge/bilibili-link-%23ff69b4)](https://www.bilibili.com/video/BV1L14y1u7XV/)
 
